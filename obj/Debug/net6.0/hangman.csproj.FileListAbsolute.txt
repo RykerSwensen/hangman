@@ -1,0 +1,5 @@
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hangman\obj\Debug\net6.0\hangman.csproj.AssemblyReference.cache
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hangman\obj\Debug\net6.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hangman\obj\Debug\net6.0\hangman.AssemblyInfoInputs.cache
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hangman\obj\Debug\net6.0\hangman.AssemblyInfo.cs
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hangman\obj\Debug\net6.0\hangman.csproj.CoreCompileInputs.cache
